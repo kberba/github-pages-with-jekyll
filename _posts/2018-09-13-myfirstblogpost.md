@@ -1,3 +1,9 @@
+---
+title: "My first blog post"
+date: 2018-09-18
+---
+
+
 # My first blog post
 
 Yay, here's my first post! 
